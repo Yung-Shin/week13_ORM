@@ -12,7 +12,7 @@ read, post, and delete their notes on demand.
 *  [How to use](#how-to-use)
 *  [Usage](#usage)
 *  [License](#license)
-*  [Walkthrough video](#walkthrough-video)
+*  [Walkthrough video](#walkthrough-videos)
 *  [Questions](#questions)
 
 
@@ -35,7 +35,13 @@ The app allows users keep track of their notes in simple manner.
 ## License
 This project is under [MIT](https://opensource.org/licenses/MIT) license.
 
-## Walkthrough video
+## Walkthrough videos
+DB, Seeds, and Server Initiation: 
+https://youtu.be/9f7UTnGzjQ4
+
+GET, POST, PUT, DELETE Demonstration:
+https://youtu.be/Yjtljd-OZ0Q
+
 
 ## Questions
 If you have any questions, please contact me via email: ineeus2@gmail.com

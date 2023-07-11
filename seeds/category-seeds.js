@@ -1,4 +1,4 @@
-const { Category } = require('../Develop/models');
+const { Category } = require('../models');
 
 const categoryData = [
   {
@@ -19,5 +19,6 @@ const categoryData = [
 ];
 
 const seedCategories = () => Category.bulkCreate(categoryData);
+
 
 module.exports = seedCategories;
